@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641258, b: 0.5748172, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2198,95 +2198,95 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   selesai: {fileID: 71526910}
   skor: 0
-  waktu: 20
+  waktu: 60
   KumpulanSoal:
-  - soal: Perusahaan di bidang teknologi informasi yang menciptakan sistem operasi
-      Android adalah ...
-    pilA: Microsoft
-    pilB: Intel
-    pilC: Google
-    pilD: Amazon
+  - soal: Kain bergambar yang pembuatannya dilakukan secara khusus disebut..
+    pilA: Denim
+    pilB: Katun
+    pilC: Batik
+    pilD: Flanel
     A: 0
     B: 0
     C: 1
     D: 0
-  - soal: Apa nama perusahaan teknologi terbesar di Korea Selatan?
-    pilA: Google
-    pilB: Samsung
-    pilC: Apple
-    pilD: Huawei
+  - soal: Batik dibuat dengan teknik, kecuali...
+    pilA: Canting tulis
+    pilB: Menjahit
+    pilC: Printing
+    pilD: Celup
     A: 0
     B: 1
     C: 0
     D: 0
-  - soal: Nama pencipta jejaring social facebook adalah ...
-    pilA: Bill Gates
-    pilB: Jeff Bezos
-    pilC: Mark Zuckerberg
-    pilD: Steve Jobs
+  - soal: Fungsi batik di dalam masyarakat, kecuali....
+    pilA: Pakaian yang dapat digunakan sehari-hari
+    pilB: Sebagai hiasan
+    pilC: Disimpan saja
+    pilD: Status sosial
     A: 0
     B: 0
     C: 1
     D: 0
-  - soal: Laba perusahaan yang dibagikan kepada pemegang saham disebut ...
-    pilA: Bruto
-    pilB: Dividen
-    pilC: Capital Gain
-    pilD: Akuisisi
+  - soal: Sebagian besar yang membuat batik adalah..
+    pilA: Laki-laki
+    pilB: Wanita
+    pilC: Laki-laki dan wanita
+    pilD: Mesin
     A: 0
     B: 1
     C: 0
     D: 0
-  - soal: Alat untuk mengukur gempa bumi disebut ...
-    pilA: Monograf
-    pilB: Seismograf
-    pilC: Typograf
-    pilD: Ultragraf
+  - soal: "Proses membatik dengan canting dinamakan batik\u2026."
+    pilA: Cap
+    pilB: Tulis
+    pilC: Lukis
+    pilD: Cetak
     A: 0
     B: 1
     C: 0
     D: 0
-  - soal: Penemu radio berasal dari negara ...
-    pilA: Inggris
-    pilB: Jerman
-    pilC: Italia
-    pilD: Jepang
+  - soal: "Alat yang digunakan untuk batik tulis disebut\u2026."
+    pilA: Cap
+    pilB: Kuas
+    pilC: Canting
+    pilD: Kain mori
     A: 0
     B: 0
     C: 1
     D: 0
-  - soal: Simbol unsur Fermium yaitu...
-    pilA: P
-    pilB: Frn
-    pilC: Fr
-    pilD: Fe
+  - soal: "Karya batik termasuk kedalam jenis seni\u2026."
+    pilA: Grafis
+    pilB: Kriya
+    pilC: Visual
+    pilD: Murni
     A: 0
     B: 1
     C: 0
     D: 0
-  - soal: Berikut perangkat keras yang memengaruhi kecepatan laptop kecuali ...
-    pilA: RAM
-    pilB: Prosesor
-    pilC: VGA
-    pilD: Monitor
+  - soal: Yang bukan merupakan bahan untuk membuat batik adalah...
+    pilA: kain blacu
+    pilB: kain sutera
+    pilC: kain mori
+    pilD: kain brokat
     A: 0
     B: 0
     C: 0
     D: 1
-  - soal: "Waktu ketika pesanan dikirim hinggan barang diterima disebut sebagai ...\r"
-    pilA: siklus pesanan
-    pilB: pengiriman pesanan
-    pilC: pemrosesan pesanan
-    pilD: perencanaan pesanan
-    A: 1
-    B: 0
+  - soal: Apa saja bahan yang digunakan untuk membuat batik, kecuali...
+    pilA: Kain
+    pilB: Penggaris
+    pilC: Canting
+    pilD: Wajan
+    A: 0
+    B: 1
     C: 0
     D: 0
-  - soal: "Biaya tetap dalam pengiriman logistik antara lain meliputi biaya ...\r"
-    pilA: pegawai
-    pilB: bahan bakar
-    pilC: perawatan
-    pilD: perlengkapan transportasi
+  - soal: Yang meresmikan kain batik sebagai warisan kemanusiaan untuk budaya lisan
+      dan nonbendawi
+    pilA: ASEAN
+    pilB: OPEC
+    pilC: UNICEF
+    pilD: UNESCO
     A: 0
     B: 0
     C: 0
